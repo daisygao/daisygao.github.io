@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html5 on Daisy Gao</title>
+    <link>daisygao.me/tags/html5/</link>
+    <description>Recent content in Html5 on Daisy Gao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="daisygao.me/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A No-Love HTML5 Page Inspired by Hackerzhou</title>
+      <link>daisygao.me/2013/06/28/a-no-love-html5-page-inspired-by-hackerzhou/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>daisygao.me/2013/06/28/a-no-love-html5-page-inspired-by-hackerzhou/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+
+&lt;p&gt;A HTML5 page using codes to express the author&amp;rsquo;s feelings of not having a boyfriend. The codes appear in a typewritter kindof fashion (with sound). Then a butterfly is drawn on the canvas made of flower pedals. It is quite dreamy. A timer then emerges saying that how many seconds the author&amp;rsquo;s been waiting for true love to show up. This work is inspired by &lt;a href=&#34;https://github.com/hackerzhou&#34;&gt;Hackerzhou&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://hackerzhou.me/love&#34;&gt;love page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-play&#34;&gt;&lt;/i&gt; &lt;a href=&#34;daisygao.me/nolove&#34; title=&#34;No Love Page&#34;&gt;No-Love Page&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/daisygao/noLove&#34;&gt;Source Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
