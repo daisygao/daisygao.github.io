@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gym on Daisy Gao</title>
-    <link>./tags/gym/</link>
+    <link>/tags/gym/</link>
     <description>Recent content in Gym on Daisy Gao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="./tags/gym/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/gym/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>健身笔记</title>
-      <link>./2017/06/13/gym-notes/</link>
+      <link>/2017/06/13/gym-notes/</link>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>./2017/06/13/gym-notes/</guid>
+      <guid>/2017/06/13/gym-notes/</guid>
       <description>&lt;p&gt;请了私教之后，发现之前健身的很多动作都是错的。不仅如此，自顶向下对于健身的许多认识也是不足的。以下就总结了700块一节私教课的精华，供参考。看不懂没关系，可以请我吃饭我给你讲哦😉&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
