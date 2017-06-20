@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Daisy Gao</title>
+    <link>http://daisygao.me/tags/</link>
+    <description>Recent content in Tags on Daisy Gao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://daisygao.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogdown</title>
+      <link>http://daisygao.me/tags/blogdown/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://daisygao.me/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>http://daisygao.me/tags/computer-vision/</link>
+      <pubDate>Mon, 17 Feb 2014 23:31:02 +0000</pubDate>
+      
+      <guid>http://daisygao.me/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gym</title>
+      <link>http://daisygao.me/tags/gym/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://daisygao.me/tags/gym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexo</title>
+      <link>http://daisygao.me/tags/hexo/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://daisygao.me/tags/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexo Theme</title>
+      <link>http://daisygao.me/tags/hexo-theme/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://daisygao.me/tags/hexo-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html5</title>
+      <link>http://daisygao.me/tags/html5/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://daisygao.me/tags/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://daisygao.me/tags/hugo/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://daisygao.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

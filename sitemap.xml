@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://daisygao.me/2017/06/13/hugo-blog-setup/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/2017/06/13/gym-notes/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/2014/02/17/opencv-scanner/</loc>
+    <lastmod>2014-02-17T23:31:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/2014/02/13/a-beautiful-hexo-theme-with-cover-photo-design/</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/2013/06/28/a-no-love-html5-page-inspired-by-hackerzhou/</loc>
+    <lastmod>2013-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/tags/blogdown/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/tags/computer-vision/</loc>
+    <lastmod>2014-02-17T23:31:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/tags/gym/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/tags/hexo/</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/tags/hexo-theme/</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/tags/html5/</loc>
+    <lastmod>2013-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/tags/hugo/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/post/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/categories/projects/</loc>
+    <lastmod>2014-02-17T23:31:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://daisygao.me/tags/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
