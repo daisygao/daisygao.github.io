@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "{{ partial \"head.html\" . }}\n  <body>\n    <div id=\"blog\">\n      {{ partial \"header.html\" . }}\n      {{ partial \"sidebar.html\" . }}\n      {{ partial \"post/header-cover.html\" . }}\n      <div id=\"main\" data-behavior=\"{{ .Scratch.Get \"sidebarBehavior\" }}\"\n        class=\"{{ with .Params.coverimage }}hasCover{{ end }}\n               {{ if eq .Params.covermeta \"out\" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}\n               {{ with .Params.coverCaption }}hasCoverCaption{{ end }}\">\n        <section class=\"postShorten-group main-content-wrap\">\n          {{ $paginator := .Paginate (where .Data.Pages \"Type\" \"post\") }}\n          {{ range $paginator.Pages }}\n            {{ .Render \"summary\" }}\n          {{ end }}\n          {{ partial \"pagination.html\" . }}\n        </section>\n        {{ partial \"footer.html\" . }}\n      </div>\n    </div>\n{{ partial \"foot.html\" . }}",
+    "created" : 1497891296730.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3856309648",
+    "id" : "60E69180",
+    "lastKnownWriteTime" : 1497891997,
+    "last_content_update" : 1497891997996,
+    "path" : "~/Codes/Daisy_Website/themes/hugo-tranquilpeak-theme/layouts/index.html",
+    "project_path" : "themes/hugo-tranquilpeak-theme/layouts/index.html",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
