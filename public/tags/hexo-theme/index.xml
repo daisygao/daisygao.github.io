@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hexo Theme on Daisy Gao</title>
+    <link>http://daisygao.me/tags/hexo-theme/</link>
+    <description>Recent content in Hexo Theme on Daisy Gao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://daisygao.me/tags/hexo-theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Beautiful Hexo Theme with Cover Photo Design</title>
+      <link>http://daisygao.me/2014/02/13/a-beautiful-hexo-theme-with-cover-photo-design/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://daisygao.me/2014/02/13/a-beautiful-hexo-theme-with-cover-photo-design/</guid>
+      <description>&lt;p&gt;I created a chic Hexo theme &amp;ldquo;Cover&amp;rdquo; with a facebook-like cover photo &amp;ndash; &lt;a href=&#34;https://github.com/daisygao/hexo-themes-cover&#34;&gt;hexo-themes-cover&lt;/a&gt;. It was forked from &lt;a href=&#34;https://github.com/yunlzheng/hexo-themes-writing&#34;&gt;writing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://daisygao.me&#34;&gt;demo site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
