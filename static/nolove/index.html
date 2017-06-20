@@ -1,0 +1,83 @@
+<p><link rel="stylesheet" href="http://yandex.st/highlightjs/7.3/styles/idea.min.css">
+<script type="text/javascript" src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Satisfy|Joti+One' rel='stylesheet' type='text/css'>
+<script src="jquery.js"></script>
+<script src='garden.js'></script>
+<script src='functions.js'></script>
+<link href='default.css' type='text/css' rel='stylesheet' media='all'>
+<style type="text/css">
+    @font-face {
+        font-family: digit;
+        src: url(digital-7-mono.ttf) format(truetype);
+    }
+</style>
+<a href="https://github.com/daisygao/noLove" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+<div id="content">
+    <audio id="sound">
+        <source src="type.ogg" type="audio/ogg" />
+        <source src="type.mp3" type="audio/mpeg" />
+        Your browser does not support HTML5 audio.
+    </audio>
+    <div id="code"></p>
+
+<pre><code>/* I am a girl named Daisy. I don&#39;t have a boyfriend. */
+Girl i = new Girl(&quot;Daisy&quot;);
+Boy u = null;
+
+/* These are festivals that matter to college students:
+   Valentine&#39;s Day, Qixi, Singles&#39; Day, Christmas Eve, 
+   New Year&#39;s Eve */
+Festival festivals[] = {...};
+
+/* When I am single... */
+while (u == null) { 
+    // I pretend to ignore these days 
+    for (Festival x : festivals) {
+        i.ignoreFestival(x);
+    }
+    i.watchMovies(); // I watched 400 movies...
+    i.cook();        // I made cupcakes and milk tea... 
+    i.travel();      // I traveled on 3 continents
+    // I push myself to grow during hard days
+    i.grow();   
+    // But I am still waiting for the special one
+    i.wait();       
+    // For I believe some day God will let u show up
+    u = God.assignFor(i);   
+}
+/* If we met and happened to like each other */
+if (u.like(i) &amp;&amp; i.like(u)) {   
+    // We&#39;d watch bad movies together and laugh hard    
+    i.watchMoviesWith(u);
+    // I&#39;d cook your favorites
+    i.cookFor(u);
+    // We&#39;d travel all around the world
+    i.travelWith(u);
+    // We&#39;d grow older and wiser together
+    i.growWith(u);
+    // We&#39;d love spending each festival together ever since
+    for (Festival x : festivals) {
+        i.enjoyFestivalWith(x, u);
+    }
+}
+</code></pre>
+
+<p></div>
+    <div id="animation">
+        <canvas id="garden"></canvas><br>
+        <div id="words">
+            <div id="messages">
+                I have been waiting for you for 
+                <div id="elapseClock"></div>
+            </div>
+            <div id="hope">
+                Looking forward to seeing you.<br/>
+                <div class="signature">- daisygao</div>
+            </div>
+        </div>
+    </div><br>
+</div>
+<div id="copyright">
+    Inspired by <a href="https://github.com/hackerzhou/Love" title="Hackerzhou Love Github project">Hackerzhou Love project</a>.<br />
+    Copyright © 2013 <a href="http://daisygao.com" title="Daisy Gao Homepage">Daisy Gao</a>
+</div></p>
